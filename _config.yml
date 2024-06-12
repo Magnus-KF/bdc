@@ -37,6 +37,7 @@ moonwalk:
   show_theme_toggle: true # Optional, if you want a toggle switch between light and dark modes
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme  
 
 # Minimal Mistakes theme settings
 
