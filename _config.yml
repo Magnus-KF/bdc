@@ -40,6 +40,10 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme  
 
+sass:
+  load_paths:
+    - _sass
+    - assets/css
 # Minimal Mistakes theme settings
 
 # Exclude from processing.
