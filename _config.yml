@@ -33,9 +33,9 @@ github_username:  jekyll
 remote_theme: abhinavs/moonwalk
 # remote_theme: ma744/enfield-jekyll-theme
 # Moonwalk settings
-# moonwalk:
-#   theme_mode: dark
-#   show_theme_toggle: true # Optional, if you want a toggle switch between light and dark modes
+moonwalk:
+  theme_mode: dark
+  show_theme_toggle: true # Optional, if you want a toggle switch between light and dark modes
 plugins:
   - jekyll-feed
   - jekyll-remote-theme  
