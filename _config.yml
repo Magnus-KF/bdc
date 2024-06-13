@@ -32,7 +32,6 @@ github_username:  jekyll
 # Build settings
 # remote_theme: abhinavs/moonwalk
 remote_theme: enfield-jekyll-theme
-theme: enfield-jekyll-theme
 # Moonwalk settings
 # moonwalk:
 #   theme_mode: dark
