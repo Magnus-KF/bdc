@@ -3,6 +3,8 @@ layout: default
 title:  "BDCVI!"
 date:   2024-06-12 16:44:43 +0200
 categories: jekyll update
+permalink: /BDC-VI/
+
 ---
 
 Er det bdc 6?

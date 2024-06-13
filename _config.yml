@@ -45,6 +45,8 @@ sass:
     - assets/css
 # Minimal Mistakes theme settings
 
+include:
+  - _pages
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

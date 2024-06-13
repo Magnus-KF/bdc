@@ -7,4 +7,4 @@ layout: home
 
 # Yeee
 
-[BDC VI](./_posts/BDC-VI.md)
+[BDC VI](/BDC-VI/)
